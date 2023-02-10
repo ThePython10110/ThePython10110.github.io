@@ -7,6 +7,6 @@ If it does, use [this link](https://google.com) to go to Google.com, in case tha
 
 <details><summary>Thing</summary>
 
-[Does this work?]("data:text/html, <html><body>Yes</body</html>")
+[Does this work?]("data:text/html, Yes")
 
 </details>
