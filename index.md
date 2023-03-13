@@ -11,7 +11,7 @@ A list of software on my computer.
 # Programming projects
 
 ### Tengwar Transcriber
-[GitHub](https://github.com/thepython10110/tengwar-transcriber), [Demo](tengwar-transcriber)
+[GitHub](https://github.com/thepython10110/tengwar-transcriber), [Demo](Tengwar-Transcriber)
 A program that converts English into Lord of the Rings Elvish Tengwar. I'm unlikely to finish it, especially since [Tecendil](https://tecendil.com) already exists.
 
 ### Countdown
