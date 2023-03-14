@@ -3,6 +3,15 @@ A complete (?) list of all the software (apps/VST plugins, etc.) I have on my co
 Everything is free (besides the games), and a lot is open-source. None of the links are direct download links (or at least they weren't when I made this list).
 An asterisk (\*) means that it's open-source.
 
+
+
+Slightly unrelatedly, [Chris Titus Tech](https://christitus.com) has created a [utility](https://github.com/christitustech/winutil) that (among other things) makes it incredibly easy to install or update apps on a Windows computer. I use it every time I reinstall Windows (annoyingly, I've had to do it at least 3 times in the past year). The easiest way to access it is to open PowerShell and run
+```
+irm https://christitus.com/winutil | iex
+```
+This will download the script, then run it. This means you don't have to open Edge... ever, if you don't want to, since you can just download Chrome (or another browser) using that utility. Of course, you could also use WinGet with the same result, but the UI makes it easier to select more than one thing.
+
+
 <details><summary><h1>Apps</h1></summary>
 
 ### Built-in Windows 10 stuff
@@ -471,7 +480,7 @@ Several great reverb/delay plugins, available as VST2/VST3/AAX/AU plugins.
 ### [Vital Synth](https://vital.audio/)\*
 A VST2/VST3/AU/LV2standalone synth. The only source code that has been made publicly available hasn't been updated since April 2022, but it's still source code. I sort of prefer this to Surge XT. They both do similar things, but Vital is much more intuitive, although slightly more CPU-hungry.
 
-### [WaveForm Free built-in stuff]
+### WaveForm Free built-in stuff
 Waveform Free comes with several plugins, but as far as I can tell, they probably aren't useful anywhere else. But it does have a reasonable synth, several effects, a rompler, and a couple of other things.
 
 ### [XOXOS plugins](https://xoxos.net/vst/)
