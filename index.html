@@ -30,49 +30,72 @@
         <section id="main_content">
             <h1 id="thepython10110">ThePython10110</h1>
             <p>I am a programmer/musician.</p>
+            <hr>
             <h1 id="music">Music</h1>
             <p>Find my music (mostly video game transcriptions) on <a
                     href="https://musescore.com/thepython10110">MuseScore.com</a> and <a
                     href="https://github.com/thepython10110/musescore" class="btn btn-github"><span
                         class="icon"></span>GitHub</a>.</p>
+            <hr>
             <h1 id="software-on-my-computer"><a href="software-on-my-computer">Software on my computer</a></h1>
             <p>A list of software on my computer.</p>
-            <h1 id="programming-projects">Programming projects</h1>
-            <h3 id="tengwar-transcriber">Tengwar Transcriber</h3>
-            <p><a href="https://github.com/thepython10110/tengwar-transcriber" class="btn btn-github"><span
-                        class="icon"></span>GitHub</a>, <a href="Tengwar-Transcriber">Demo</a></p>
-            <p>A program that converts English into Lord of the Rings Elvish Tengwar. I&#39;m unlikely to finish it,
-                especially since <a href="https://tecendil.com">Tecendil</a> already exists.</p>
-            <h3 id="countdown">Countdown</h3>
-            <p><a href="https://github.com/thepython10110/countdown" class="btn btn-github"><span
-                        class="icon"></span>GitHub</a></p>
-            <p>A Python/Tkinter program that counts down the time until user-specified events, with the ability to make
-                custom themes. It requires Python 3 on a Windows computer (although using it on other OS&#39;s
-                shouldn&#39;t take much modification), and several Python modules that <em>should</em> automatically be
-                installed. It saves either to a JSON file or to a <a href="https://home-assistant.io">Home Assistant</a>
-                server via the REST API. It uses my Python script (<code>hass.py</code>) which has several functions
-                that make the Home Assistant REST API relatively easy to use.</p>
-            <h3 id="clonetron">Clonetron</h3>
-            <p><a href="https://github.com/thepython10110/clonetron" class="btn btn-github"><span
-                        class="icon"></span>GitHub</a></p>
-            <p>Hopefully a <a href="https://minetest.net">Minetest</a> mod that&#39;s a port of <a
-                    href="https://github.com/minetest-mods/digtron" class="btn btn-github"><span
-                        class="icon"></span>Digtron</a> for <a
-                    href="https://content.minetest.net/packages/Wuzzy/mineclone2">MineClone</a>. It doesn&#39;t work,
-                and I know basically nothing about the Minetest/MineClone API (?), and I&#39;m also very new to Lua, so
-                I don&#39;t know how to fix it. Basically, all I did was change the crafting recipes, change the
-                dependencies, and find/replace &quot;digtron&quot; with &quot;clonetron.&quot; <em>PLEASE</em> look
-                through it and open an issue telling me how to fix it...</p>
-            <h3 id="github-pages">GitHub Pages</h3>
-            <p><a href="https://github.com/thepython10110/thepython10110.github.io" class="btn btn-github"><span
-                        class="icon"></span>GitHub</a></p>
-            <p>The code for this site. GitHub Pages is great.</p>
-            <h3 id="spawncraft">SpawnCraft</h3>
-            <p><a href="https://github.com/thepython10110/spawncraft" class="btn btn-github"><span
-                        class="icon"></span>GitHub</a></p>
-            <p>A <a href="https://minetest.net">Minetest</a> mod for <a
-                    href="https://content.minetest.net/packages/Wuzzy/mineclone2">MineClone</a> that adds crafting
-                recipes for spawners and spawn eggs.</p>
+            <hr>
+            <details>
+                <summary>
+                    <h1 id="minetest-mods">Minetest mods</h1>
+                </summary>
+                <h3 id="clonetron">Clonetron</h3>
+                <p><a href="https://github.com/thepython10110/clonetron" class="btn btn-github"><span
+                            class="icon"></span>GitHub</a></p>
+                <p>Hopefully a port of <a href="https://github.com/minetest-mods/digtron" class="btn btn-github"><span
+                            class="icon"></span>Digtron</a> for <a
+                        href="https://content.minetest.net/packages/Wuzzy/mineclone2">MineClone</a>. It doesn&#39;t work
+                    at the moment. Basically, all I did so far was change the crafting recipes, change the
+                    dependencies, and find/replace &quot;digtron&quot; with &quot;clonetron.&quot; I might try to fix it
+                    soon.</p>
+                <h3 id="spawncraft">SpawnCraft</h3>
+                <p><a href="https://github.com/thepython10110/spawncraft" class="btn btn-github"><span
+                            class="icon"></span>GitHub</a>, <a href="https://content.minetest.net/packages/ThePython/spawncraft/">ContentDB</a></p>
+                <p>A mod for <a href="https://content.minetest.net/packages/Wuzzy/mineclone2">MineClone</a> that adds
+                    crafting recipes for spawners and spawn eggs.</p>
+                <h3 id="exchangeclone">ExchangeClone</h3>
+                <p><a href="https://github.com/thepython10110/exchangeclone" class="btn btn-github"><span
+                    class="icon"></span>GitHub</a></p>
+                <p>A fork of <a href=https://github.com/enchant97/minetest_element_exchange class="btn btn-github"><span
+                            class="icon"></span>Element Exchange</a> with bugfixes, MineClone support (WIP), and new
+                    features (eventually).</p>
+                    <h3 id="portability">Portability</h3>
+                    <p><a href="https://github.com/thepython10110/portability" class="btn btn-github"><span
+                        class="icon"></span>GitHub</a>, <a href="https://content.minetest.net/packages/ThePython/portability/">ContentDB</a></p>
+                    <p>Adds a portable crafting table, portable ender chest, and portable enchanting table to MineClone.</p>
+            </details>
+            <hr>
+            <details>
+                <summary>
+                    <h1 id="random-programming-projects">Random programming projects</h1>
+                </summary>
+                <h3 id="tengwar-transcriber">Tengwar Transcriber</h3>
+                <p><a href="https://github.com/thepython10110/tengwar-transcriber" class="btn btn-github"><span
+                            class="icon"></span>GitHub</a>, <a href="Tengwar-Transcriber">Demo</a></p>
+                <p>A program that converts English into Lord of the Rings Elvish Tengwar. I&#39;m unlikely to finish it,
+                    especially since <a href="https://tecendil.com">Tecendil</a> already exists.</p>
+                <h3 id="countdown">Countdown</h3>
+                <p><a href="https://github.com/thepython10110/countdown" class="btn btn-github"><span
+                            class="icon"></span>GitHub</a></p>
+                <p>A Python/Tkinter program that counts down the time until user-specified events, with the ability to
+                    make
+                    custom themes. It requires Python 3 on a Windows computer (although using it on other OS&#39;s
+                    shouldn&#39;t take much modification), and several Python modules that <em>should</em> automatically
+                    be
+                    installed. It saves either to a JSON file or to a <a href="https://home-assistant.io">Home
+                        Assistant</a>
+                    server via the REST API. It uses my Python script (<code>hass.py</code>) which has several functions
+                    that make the Home Assistant REST API relatively easy to use.</p>
+                <h3 id="github-pages">GitHub Pages</h3>
+                <p><a href="https://github.com/thepython10110/thepython10110.github.io" class="btn btn-github"><span
+                            class="icon"></span>GitHub</a></p>
+                <p>The code for this site.</p>
+            </details>
         </section>
     </div>
 </body>
