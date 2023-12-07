@@ -47,7 +47,7 @@ A MineClone2 mod that adds tons of aliases that make itemstrings match MineCraft
 
 <details><summary><h1 id="random-programming-projects">Random programming projects</h1></summary>
 
-<h3 id="countdown">Countdown</h3>
+### Countdown
 [GitHub](https://github.com/thepython10110/countdown)
 
 A Python/Tkinter program that counts down the time until user-specified events, with the ability to make custom themes. It requires Python 3 on a Windows computer (although using it on other OS's shouldn't take much modification), and several Python modules that _should_ automatically be installed. It saves either to a JSON file or to a [Home Assistant](https://home-assistant.io) server via the REST API. It uses my Python script (`hass.py`) which has several functions that make the Home Assistant REST API relatively easy to use.
