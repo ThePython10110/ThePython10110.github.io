@@ -52,6 +52,11 @@ A MineClone2 mod that adds tons of aliases that make itemstrings match MineCraft
 
 A Python/Tkinter program that counts down the time until user-specified events, with the ability to make custom themes. It requires Python 3 on a Windows computer (although using it on other OS's shouldn't take much modification), and several Python modules that _should_ automatically be installed. It saves either to a JSON file or to a [Home Assistant](https://home-assistant.io) server via the REST API. It uses my Python script (`hass.py`) which has several functions that make the Home Assistant REST API relatively easy to use.
 
+### GitHub Pages
+[GitHub](https://github.com/thepython10110/thepython10110.github.io)
+
+The code for this site.
+
 ### Midiflip
 [GitHub](https://github.com/thepython10110/midiflip), [Demo](midiflip)
 
@@ -62,8 +67,9 @@ A program to flip MIDI files (high notes become low notes, low notes become high
 
 A program that converts English into Lord of the Rings Elvish Tengwar. I'm unlikely to finish it, especially since [Tecendil](https://tecendil.com) already exists.
 
-### GitHub Pages
-[GitHub](https://github.com/thepython10110/thepython10110.github.io)
+### UserStyles
+[GitHub](https://github.com/ThePython10110/UserStyles) [UserStyles.world](https://userstyles.world/user/ThePython10110)
 
-The code for this site.
+Themes for a couple of websites.
+
 </details>
