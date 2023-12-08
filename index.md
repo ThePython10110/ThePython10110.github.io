@@ -68,7 +68,7 @@ A program to flip MIDI files (high notes become low notes, low notes become high
 A program that converts English into Lord of the Rings Elvish Tengwar. I'm unlikely to finish it, especially since [Tecendil](https://tecendil.com) already exists.
 
 ### UserStyles
-[GitHub](https://github.com/ThePython10110/UserStyles) [UserStyles.world](https://userstyles.world/user/ThePython10110)
+[GitHub](https://github.com/ThePython10110/UserStyles), [UserStyles.world](https://userstyles.world/user/ThePython10110)
 
 Themes for a couple of websites.
 
