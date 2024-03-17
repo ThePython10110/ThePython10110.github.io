@@ -19,6 +19,7 @@ A Minetest mod that randomizes node drops, entity drops, and crafting recipes. S
 
 ### Better Commands (WIP)
 [GitHub](https://github.com/thepython10110/better_commands)
+
 A mod that will add Minecraft syntax for commands (such as `/kill @e[type=mobs_mc:zombie`, which actually already works).
 
 ### BigNum
