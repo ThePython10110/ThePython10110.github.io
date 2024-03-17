@@ -13,14 +13,17 @@ A list of software on my computer.
 <details><summary><h1 id="minetest-mods">Minetest mods</h1></summary>
 
 ### Better Randomizer
-[GitHub]("https://github.com/thepython10110/better_randomizer"), [ContentDB]("https://content.minetest.net/packages/ThePython/_better_randomizer/")
+[GitHub]("https://github.com/thepython10110/_better_randomizer"), [ContentDB]("https://content.minetest.net/packages/ThePython/_better_randomizer/")
 
 A Minetest mod that randomizes node drops, entity drops, and crafting recipes. Saves randomness, can be toggled on/off
 
-### SpawnCraft
-[GitHub](https://github.com/thepython10110/spawncraft), [ContentDB](https://content.minetest.net/packages/ThePython/spawncraft/)
+### Better Commands (WIP)
+[GitHub](https://github.com/thepython10110/better_commands)
+A mod that will add Minecraft syntax for commands (such as `/kill @e[type=mobs_mc:zombie`, which actually already works).
 
-A mod for [MineClone](https://content.minetest.net/packages/Wuzzy/mineclone2) that adds crafting recipes for spawners and spawn eggs.
+### BigNum
+[GitHub](https://github.com/thepython10110/bignum), [ContentDB](https://content.minetest.net/packages/ThePython/bignum/)
+A library mod that adds a data type for arbitrary precision integers.
 
 ### ExchangeClone
 [GitHub](https://github.com/thepython10110/exchangeclone), [Wiki](https://github.com/thepython10110/exchangeclone/wiki), [ContentDB](https://content.minetest.net/packages/ThePython/exchangeclone/)
@@ -32,16 +35,21 @@ A fork of [Element Exchange](https://github.com/enchant97/minetest_element_excha
 
 Adds a portable crafting table, portable ender chest (although it requires a minor change to MineClone's code), and portable enchanting table to MineClone.
 
-### Why?
-[GitHub](https://github.com/thepython10110/why), [ContentDB](https://content.minetest.net/packages/ThePython/why/)
+### SpawnCraft
+[GitHub](https://github.com/thepython10110/spawncraft), [ContentDB](https://content.minetest.net/packages/ThePython/spawncraft/)
 
-A modpack that adds a whole bunch of completely random things to MineClone/Minetest Game. Some are useful, others are solely for annoying people, and some are _completely_ useless. Not all features are available in Minetest Game.
+A mod for [MineClone](https://content.minetest.net/packages/Wuzzy/mineclone2) that adds crafting recipes for spawners and spawn eggs.
 
 ### Too Many Aliases
 
 [GitHub](https://github.com/thepython10110/too_many_aliases), [ContentDB](https://content.minetest.net/packages/ThePython/too_many_aliases/)
 
 A MineClone2 mod that adds tons of aliases that make itemstrings match MineCraft as much as possible.
+
+### Why?
+[GitHub](https://github.com/thepython10110/why), [ContentDB](https://content.minetest.net/packages/ThePython/why/)
+
+A modpack that adds a whole bunch of completely random things to MineClone/Minetest Game. Some are useful, others are solely for annoying people, and some are _completely_ useless. Not all features are available in Minetest Game.
 
 </details>
 
