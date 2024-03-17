@@ -4,7 +4,7 @@ I am a programmer/musician.
 
 
 # Music
-Find my music (mostly video game transcriptions) on [MuseScore.com](https://musescore.com/thepython10110) and [GitHub]("https://github.com/thepython10110/musescore"). On GitHub, I have a script that automatically converts them into various file formats (including MP3, MIDI, PDF, and MusicXML). It will even automatically flip the MIDI files using [My version](https://github.com/thepython10110/midiflip) of [midiflip]("https://github.com/1j01/midiflip")
+Find my music (mostly video game transcriptions) on [MuseScore.com](https://musescore.com/thepython10110) and [GitHub](https://github.com/thepython10110/musescore). On GitHub, I have a script that automatically converts them into various file formats (including MP3, MIDI, PDF, and MusicXML). It will even automatically flip the MIDI files using [my version](https://github.com/thepython10110/midiflip) of [midiflip](https://github.com/1j01/midiflip)
 
 # [Software on my computer](software-on-my-computer)
 A list of software on my computer.
@@ -13,7 +13,7 @@ A list of software on my computer.
 <details><summary><h1 id="minetest-mods">Minetest mods</h1></summary>
 
 ### Better Randomizer
-[GitHub]("https://github.com/thepython10110/_better_randomizer"), [ContentDB]("https://content.minetest.net/packages/ThePython/_better_randomizer/")
+[GitHub](https://github.com/thepython10110/_better_randomizer), [ContentDB](https://content.minetest.net/packages/ThePython/_better_randomizer/)
 
 A Minetest mod that randomizes node drops, entity drops, and crafting recipes. Saves randomness, can be toggled on/off
 
