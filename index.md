@@ -17,10 +17,10 @@ A list of software on my computer.
 
 A Minetest mod that randomizes node drops, entity drops, and crafting recipes. Saves randomness, can be toggled on/off
 
-### Better Commands (WIP)
+### Minecraft Commands (WIP)
 [GitHub](https://github.com/thepython10110/better_commands)
 
-A mod that will add Minecraft syntax for commands (such as `/kill @e[type=mobs_mc:zombie`, which actually already works).
+A mod that adds Minecraft commands (such as `/execute as @e at @s run me is closest to @e[sort=nearest,limit=1,distance=.1..]`). Obviously, there are some differences, but I'm doing my best to make it as similar as possible.
 
 ### BigNum
 [GitHub](https://github.com/thepython10110/bignum), [ContentDB](https://content.minetest.net/packages/ThePython/bignum/)
@@ -64,7 +64,7 @@ A Python/Tkinter program that counts down the time until user-specified events, 
 ### GitHub Pages
 [GitHub](https://github.com/thepython10110/thepython10110.github.io)
 
-The code for this site.
+The "code" for this site (if you can really call HTML/Markdown code).
 
 ### Midiflip
 [GitHub](https://github.com/thepython10110/midiflip), [Demo](midiflip)
